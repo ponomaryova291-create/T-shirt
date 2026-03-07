@@ -3,7 +3,7 @@
 }
 body {
   font-family: 'Open Sans', sans-serif;
-  background: linear-gradient(120deg, #000000, #696969, #A9A9A9);
+  background: linear-gradient(120deg, #A9A9A9, #696969, #000000);
 }
 a {
   color: #000000;
@@ -142,4 +142,5 @@ a:hover {
 .landing-page .content .image img {
   max-width: 120%;
   margin-top: 50px;
+
 }
